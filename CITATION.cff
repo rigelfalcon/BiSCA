@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "BiSCA: BiSpectral EEG Component Analysis"
+version: "1.0.0"
+URL: "https://github.com/rigelfalcon/BiSCA"
+repository-code: "https://github.com/rigelfalcon/BiSCA"
+license: "GPL-3.0"
+abstract: "MATLAB implementation of the BiSpectral EEG Component Analysis (BiSCA) framework for joint spectral and bispectral modeling to test for nonlinear resonance in cortical signals."
+authors:
+  - family-names: Wang
+    given-names: Ying
+  - family-names: Li
+    given-names: Min
+  - family-names: García Reyes
+    given-names: Ronaldo
+  - family-names: Bringas-Vega
+    given-names: María L.
+  - family-names: Minati
+    given-names: Ludovico
+  - family-names: Breakspear
+    given-names: Michael
+  - family-names: Valdes-Sosa
+    given-names: Pedro A.
+preferred-citation:
+  type: article
+  title: "The influence of nonlinear resonance on human cortical oscillations"
+  authors:
+    - family-names: Wang
+      given-names: Ying
+    - family-names: Li
+      given-names: Min
+    - family-names: García Reyes
+      given-names: Ronaldo
+    - family-names: Bringas-Vega
+      given-names: María L.
+    - family-names: Minati
+      given-names: Ludovico
+    - family-names: Breakspear
+      given-names: Michael
+    - family-names: Valdes-Sosa
+      given-names: Pedro A.
+  doi: "10.1101/2025.06.27.661950"
+  url: "https://doi.org/10.1101/2025.06.27.661950"
+  year: 2025
+  journal: "bioRxiv"
